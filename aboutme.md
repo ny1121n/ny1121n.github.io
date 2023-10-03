@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Highly motivated computer science undergraduate
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Hi, thanks for being here! My name is Nayeon Kim and currently based in Singapore. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born and raised in South Korea, and moved to Singapore at the age of 14. I went to a private school in Singapore and managed to be  admitted to the o-level class only after studying for two months. After intense couple of years of studying, I ended up at SIM GE majoring in computer science. 
